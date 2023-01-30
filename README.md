@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🌱 I’m currently finishing META Frontend Certification
+🤔 Who would have ever imagined frontend would be so interesting!
+
+
 <!--
 **NPotokin/NPotokin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
