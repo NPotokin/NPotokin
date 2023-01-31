@@ -4,7 +4,7 @@
 🤔 Who would have ever imagined frontend would be so interesting!
 
 ## About me:
-Coming from Academia, Oil&Gas Rigs and Legal Cannabis Cultivation, 
+Coming from Academic Research, Oil&Gas Rigs and Legal Cannabis Cultivation, 
 I bring diverse experience, can-do attitude and fun!
 
 ## Languages and tools:
