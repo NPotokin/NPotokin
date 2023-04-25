@@ -4,7 +4,7 @@ I'm Nikita and I'm switching to Frontend Web Development. Just got my META Front
 currently working on portfolio projects. <br /><br />
 
 ## About me:
-With ⚒️ Engineering degree, I have a background in 🔬📚🥼Academic Research, 💻🔧🧰Oil&Gas Rigs and 🌱🍁🪴Legal Cannabis Cultivation, 
+With ⚒️ Engineering degree, I have a background in 🔬📚🥼Academic Research, 💻🔧🧰Oil&Gas Rigs and 🌱🍁🪴Biomedical Cultivation, 
 I bring smooth communication, can-do attitude and fun!<br /><br />
 
 ## Languages and tools: 
